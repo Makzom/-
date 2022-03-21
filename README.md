@@ -1,6 +1,3 @@
-# -
-图标变白
-https://blog.csdn.net/first52hz/article/details/84969753
 annotation：explorer.exe是Windows程序管理器或者文件资源管理器，它用于管理Windows图形壳，包括桌面和文件管理，删除该程序会导致Windows图形界面无法使用
 
 
